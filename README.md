@@ -1,0 +1,1 @@
+This is my project readme and my first step in becoming a software developer, graduating from alx and also successfully joining the room fellowship. And landing a well paid job where i can contribute in solving the biggest problems
